@@ -35,7 +35,7 @@ Link the html document to urls.py
 
 ##Step 8:
 
-Publish the website in the url: (http://Souvik/Desktop/Web_server/serversideprocessing/server.html)
+Publish the website in the url: (http://file:///C:/Users/Souvik/Desktop/Web_server/serversideprocessing/server.html)
 
 
 ## PROGRAM :
